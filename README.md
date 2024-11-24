@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarthikRambhatla
-- 👀 I’m interested in Web Development, Game Development and Math Ideas
-- 🌱 I’m currently learning .NET core, Angular and Unity
-- 💞️ I’m looking to collaborate on small to medium Web Projects
+- 👀 I’m interested in Backend Development, Data science.
+- 🌱 I use C# .NET Core, Python, Rust languages at work. 
+- 💞️ I am open to collaborate on interesting projects related.
 - 📫 To reach me ...Send an email to karthikrambhatla@gmail.com
 
 <!---
